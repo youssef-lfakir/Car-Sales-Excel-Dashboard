@@ -3,7 +3,8 @@
 ## 📌 Project Overview
 This interactive Excel dashboard analyzes car sales performance across different companies, models, body styles, transmission types, and engine types.
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](<img width="391" height="275" alt="Screenshot 2026-09-29 181628" src="https://github.com/user-attachments/assets/4e93acfc-2fec-4a22-9e9b-c2cb92b24d96" />
+)
 
 ## 📊 Key Metrics (KPIs)
 - **Total Sales:** $267,138,050
