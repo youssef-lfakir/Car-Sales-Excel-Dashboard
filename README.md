@@ -3,8 +3,8 @@
 ## 📌 Executive Summary
 This interactive Excel Dashboard provides an end-to-end analysis of automotive sales data, evaluating revenue streams, unit volumes, customer purchasing power, and dealer distribution metrics. Designed with an executive **Dark Theme UI**, the dashboard enables stakeholders to make data-driven decisions regarding inventory management, model prioritization, and sales channel optimization.
 
-![Car Sales Analytics Dashboard](<img width="781" height="550" alt="image" src="https://github.com/user-attachments/assets/0588f0d1-b25c-47ed-bcb6-41843a655ed6" />
-)
+<img width="781" height="550" alt="image" src="https://github.com/user-attachments/assets/0588f0d1-b25c-47ed-bcb6-41843a655ed6" />
+
 
 ---
 
