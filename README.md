@@ -3,7 +3,53 @@
 ## 📌 Executive Summary
 This interactive Excel Dashboard provides an end-to-end analysis of automotive sales data, evaluating revenue streams, unit volumes, customer purchasing power, and dealer distribution metrics. Designed with an executive **Dark Theme UI**, the dashboard enables stakeholders to make data-driven decisions regarding inventory management, model prioritization, and sales channel optimization.
 
-<img width="781" height="550" alt="image" src="https://github.com/user-attachments/assets/0588f0d1-b25c-47ed-bcb6-41843a655ed6" />
+<img width="781" height="550" alt="image" src="https://github.com/user-attachments/assets/0588f0d1-b25c-47ed-bcb6-41843a655ed6" /># 🚗 Car Sales Analytics - Excel Dashboard
+
+## 📌 Project Overview
+This interactive Excel dashboard analyzes car sales performance across different companies, models, body styles, transmission types, and engine types.
+
+<img width="391" height="275" alt="Screenshot 2026-09-29 181628" src="https://github.com/user-attachments/assets/4e93acfc-2fec-4a22-9e9b-c2cb92b24d96" />
+
+
+## 📊 Key Metrics (KPIs)
+- **Total Sales:** $267,138,050
+- **Total Cars Sold:** 13,226 units
+- **Average Car Price:** $28,090
+- **Average Customer Income:** $830,840
+
+## 🛠️ Features & Tools Used
+- **Microsoft Excel:** Pivot Tables, Advanced Formulas, Interactive Slicers.
+- **Data Visualization:** Bar Charts, Donut Charts, 3D Surface Charts, Custom Dark Theme.
+- **Interactivity:** Filter sales dynamically by Company, Model, and Dealer.
+
+## 📁 Repository Structure
+- `Car_Sales_Dashboard.xlsx` - Full interactive Excel file.
+- `car_sales_data.csv` - Raw dataset used for analysis.
+- `dashboard_preview.png` - Dashboard overview screenshot.
+# 🚗 Car Sales Analytics - Excel Dashboard
+
+## 📌 Project Overview
+This interactive Excel dashboard analyzes car sales performance across different companies, models, body styles, transmission types, and engine types.
+
+<img width="391" height="275" alt="Screenshot 2026-09-29 181628" src="https://github.com/user-attachments/assets/4e93acfc-2fec-4a22-9e9b-c2cb92b24d96" />
+
+
+## 📊 Key Metrics (KPIs)
+- **Total Sales:** $267,138,050
+- **Total Cars Sold:** 13,226 units
+- **Average Car Price:** $28,090
+- **Average Customer Income:** $830,840
+
+## 🛠️ Features & Tools Used
+- **Microsoft Excel:** Pivot Tables, Advanced Formulas, Interactive Slicers.
+- **Data Visualization:** Bar Charts, Donut Charts, 3D Surface Charts, Custom Dark Theme.
+- **Interactivity:** Filter sales dynamically by Company, Model, and Dealer.
+
+## 📁 Repository Structure
+- `Car_Sales_Dashboard.xlsx` - Full interactive Excel file.
+- `car_sales_data.csv` - Raw dataset used for analysis.
+- `dashboard_preview.png` - Dashboard overview screenshot.
+
 
 
 ---
